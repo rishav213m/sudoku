@@ -1,2 +1,2 @@
 # sudoku
-the famous sudoku gav=me created using java swing
+the famous sudoku game created using java swing
